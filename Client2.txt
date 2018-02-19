@@ -1,0 +1,11 @@
+
+6. Logical Clock: 2
+14. Logical Clock: 2
+30. Logical Clock: 2
+46. Logical Clock: 2
+50. Logical Clock: 5
+82. Logical Clock: 2
+90. Logical Clock: 7
+98. Logical Clock: 2
+102. Logical Clock: 2
+126. Logical Clock: 2
